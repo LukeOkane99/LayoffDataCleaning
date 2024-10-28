@@ -1,4 +1,4 @@
--- Data Cleaning --
+-- Data Cleaning Project to tidy up the layoff data --
 
 SELECT *
 FROM layoffs
